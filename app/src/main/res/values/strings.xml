@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReactNativeRunner</string>
+    <string name="react_native">Set React Native IP</string>
+</resources>
